@@ -98,7 +98,7 @@ show running-config
 
 Kirjuta `exit`, vajuta Enter. Kommutaator küsib nüüd parooli: kirjuta `1234`. Siis `enable` ja jälle `1234`.
 
-## Samm 7. Tee kommutaator puhtaks (järgmise paari jaoks)
+## Samm 7. Tee kommutaator puhtaks (järgmise grupi jaoks)
 
 ```
 enable

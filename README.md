@@ -2,9 +2,21 @@
 
 Andra on uus IT-tugi praktikant. Tema esimene ülesanne: serveriruumis on Cisco kommutaator, mille seadistust keegi ei tea. Andra peab ühendama oma arvuti kommutaatoriga, logima sisse ja seadistama selle nii, et kõik teaksid, mis seade see on ja et suvaline inimene sinna sisse ei pääseks.
 
-Seni tegid sa seda Packet Traceris. Täna oled sina Andra ja teed sama **päris kommutaatoriga serveriruumis**.
+Seni tegid sa seda Packet Traceris. Täna oled sina Andra ja teed sama **serveriruumi Cisco kommutaatoriga**.
 
-Töötate **paaris**. Üks istub arvuti taga, teine käib serveriruumis. Poole pealt vahetate.
+Töötate **grupis (2–3 inimest)**. Poole pealt vahetate rollid, et igaüks trükiks ise käske.
+
+| Roll | Kus | Mida teeb |
+|---|---|---|
+| Serveriruum | serveriruumis, kapp K1 | ühendab kaabli patch-paneelilt kommutaatori CONSOLE porti, teeb foto `kaabel.jpg` |
+| Konsool | klassis arvuti taga | PuTTY, trükib käsud |
+| Kirjutaja (3. inimene) | klassis | teeb ekraanipildid, märgib üles kommutaatori numbri |
+
+Esitab **igaüks** oma repos. Grupi pildid võivad olla samad, vastused kirjutad ise.
+
+Enne alustamist vaata: [video PuTTY ühendusest](https://drive.google.com/file/d/1y2phgdB0MZ0k9rTrmo_ES2ae5jxHEo1a/view?usp=sharing) ja [juhend: klassi arvuti, konsoolikaabel, PuTTY](https://docs.google.com/document/d/12NH_-liylELLgUhspfoTXxHba21JFe0_eW3Jok0Zffk/edit?usp=sharing). Kõik sammud on ka saidil: <https://optalvik.github.io/avalused/praktikumid/praktikum_06b.html>
+
+> **Serveriruumis** puutu ainult oma grupi kommutaatorit ja sinist konsoolikaablit. Teisi kaableid ära tõmba välja: nendest käib kooli võrk.
 
 **Parool on kõikjal `1234`.**
 
@@ -109,7 +121,7 @@ Kommutaatori esiküljel vasakul on nupp **MODE**. Hoia seda **15 sekundit all**,
 
 **Sinu nimi:** 
 
-**Paariline:** 
+**Grupikaaslased:** 
 
 **Kommutaatori number (valge kleebis):** 
 
